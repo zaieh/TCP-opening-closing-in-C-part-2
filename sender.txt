@@ -1,0 +1,130 @@
+First packet sent from client
+SYN bit set to 1. Connection request.
+0x5356
+0x0898
+0x00000001
+0x00000000
+0x6002
+0x0000
+0x440E
+0x0000
+0x0000
+Second packet received from client
+ACK bit set to 1. 
+End of handshaking. First 128 bytes received.
+0x5356
+0x0898
+0x00000002
+0x00000033
+0x6010
+0x0000
+0xCE5C
+0x0000
+0x0000
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwx
+Third packet received from client
+ACK bit set to 1. 
+0x5356
+0x0898
+0x00000003
+0x00000034
+0x6010
+0x0000
+0x4E9F
+0x0000
+0x0000
+yzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuv
+Fourth packet received from client
+ACK bit set to 1. 
+0x5356
+0x0898
+0x00000004
+0x00000035
+0x6010
+0x0000
+0xC4D5
+0x0000
+0x0000
+wxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrst
+Fifth packet received from client
+ACK bit set to 1. 
+0x5356
+0x0898
+0x00000005
+0x00000036
+0x6010
+0x0000
+0x3100
+0x0000
+0x0000
+uvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqr
+Sixth packet received from client
+ACK bit set to 1. 
+0x5356
+0x0898
+0x00000006
+0x00000037
+0x6010
+0x0000
+0x931E
+0x0000
+0x0000
+stuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnop
+Seventh packet received from client
+ACK bit set to 1. 
+0x5356
+0x0898
+0x00000007
+0x00000038
+0x6010
+0x0000
+0xEB30
+0x0000
+0x0000
+qrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmn
+Eighth packet received from client
+ACK bit set to 1. 
+0x5356
+0x0898
+0x00000008
+0x00000039
+0x6010
+0x0000
+0x3937
+0x0000
+0x0000
+opqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijkl
+Nineth packet received from client
+ACK bit set to 1. 
+0x5356
+0x0898
+0x00000009
+0x0000003A
+0x6010
+0x0000
+0x7D31
+0x0000
+0x0000
+mnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghij
+Twentieth packet received from client.
+Initialization of closing TCP connection. FIN bit set to 1.
+0x5356
+0x0898
+0x00000014
+0x00000000
+0x6001
+0x0000
+0xC12D
+0x0000
+0x0000
+Twentythird packet received from client.
+This closes connection. ACK bit set to 1.
+0x5356
+0x0898
+0x00000006
+0x00000051
+0x6010
+0x0000
+0x04D8
+0x0000
+0x0000
